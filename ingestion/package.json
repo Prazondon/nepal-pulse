@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "tsx src/producer.ts"
+    "start": "tsx src/scraper.ts"
   },
   "keywords": [],
   "author": "",
